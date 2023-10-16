@@ -11,6 +11,11 @@ export default function Home() {
               Rubén Sahagún Benítez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/gberdud"} target="_blank">
+              Enrique García Berdud
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
